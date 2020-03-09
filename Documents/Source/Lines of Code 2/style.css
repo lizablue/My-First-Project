@@ -1,14 +1,14 @@
 * {
-    background-color: lightsteelblue;
-    color: navy;
+    background-color: salmon;
+    color: sienna;
 }
 
 h1 {
-    color: navy;
+    color: seagreen;
 }
 
 .friend {
-    background-color: teal;
+    background-color: seagreen;
 }
 
 .friend h3 {
@@ -16,9 +16,10 @@ h1 {
 }
 
 p {
-    color: white;
+    color: seashell;
 }
 
-.name {
-    color: navy;
+button {
+    color: seashell;
+    background-color: seagreen;
 }
