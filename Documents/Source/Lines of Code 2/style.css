@@ -1,0 +1,24 @@
+* {
+    background-color: lightsteelblue;
+    color: navy;
+}
+
+h1 {
+    color: navy;
+}
+
+.friend {
+    background-color: teal;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+}
+
+.name {
+    color: navy;
+}
