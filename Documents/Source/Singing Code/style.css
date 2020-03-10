@@ -1,0 +1,25 @@
+* {
+    background-color: salmon;
+    color: sienna;
+}
+
+h1 {
+    color: seagreen;
+}
+
+.friend {
+    background-color: seagreen;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+}
+
+p {
+    color: seashell;
+}
+
+button {
+    color: seashell;
+    background-color: seagreen;
+}
